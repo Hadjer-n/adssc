@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/adssc/static/css/main.c19f0368.css",
+    "main.js": "/adssc/static/js/main.0810b33d.js",
+    "static/media/LLM&chips.png": "/adssc/static/media/LLM&chips.1bcf52b8e15523505e88.png",
+    "static/media/Ch.jpg": "/adssc/static/media/Ch.d2fdfe848a886d73080f.jpg",
+    "static/media/SC.jpg": "/adssc/static/media/SC.8c9bf5eebe85fb8adb4d.jpg",
+    "static/media/toqeer.jpg": "/adssc/static/media/toqeer.ffbdeba4c05730c1d441.jpg",
+    "static/media/ADS-removebg-preview.png": "/adssc/static/media/ADS-removebg-preview.f901ae571b2885da33b3.png",
+    "static/media/SDU-removebg-preview.png": "/adssc/static/media/SDU-removebg-preview.c839115916c68b9aff38.png",
+    "static/media/Muhammad.jpg": "/adssc/static/media/Muhammad.eb11ce6ae73223499214.jpg",
+    "index.html": "/adssc/index.html",
+    "main.c19f0368.css.map": "/adssc/static/css/main.c19f0368.css.map",
+    "main.0810b33d.js.map": "/adssc/static/js/main.0810b33d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19f0368.css",
+    "static/js/main.0810b33d.js"
+  ]
+}
